@@ -1,2 +1,6 @@
-const greet = 'Hello worl';
-console.log(greet);
+// const express = require('express');
+// const app = express();
+
+// app.listen(8090, () => {
+//     console.log('Servidor activo');
+// });
