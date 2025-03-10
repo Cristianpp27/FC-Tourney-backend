@@ -1,0 +1,1 @@
+Este proyecto esta desarrollado con NodeJS 22.12 y Express 4.19.2 
